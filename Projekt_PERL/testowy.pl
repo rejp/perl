@@ -11,3 +11,5 @@ foreach (@content) {
 	say $_;
 }
 closedir(DIR);
+
+say "Zamykam apkê!";
